@@ -1,0 +1,4 @@
+streamlit
+google-generativeai
+pinecone-client
+sentence-transformers
